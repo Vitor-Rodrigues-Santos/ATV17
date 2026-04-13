@@ -9,8 +9,8 @@ Este repositório registra a evolução dos meus estudos em algoritmos, saindo d
 ## 🛠️ Tecnologias e Ferramentas
 Nesta etapa, deixei de lado editores de texto comuns para utilizar ferramentas que aproximam o trabalho da realidade e que facilitam o processo:
 
-* **[VisuALG](http://visualg3.com.br/):** Para escrita de pseudocódigo (Portugol), permitindo a definição de variáveis e execução da lógica.
-* **[Draw.io](https://app.diagrams.net/):** Para a modelagem de fluxogramas com a simbologia padrão da computação.
+* **[VisuALG]:** Para escrita de pseudocódigo (Portugol), permitindo a definição de variáveis e execução da lógica.
+* **[Draw.io]:** Para a modelagem de fluxogramas com a simbologia padrão da computação.
 
 ---
 
