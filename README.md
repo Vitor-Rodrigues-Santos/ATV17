@@ -17,12 +17,14 @@ Nesta etapa, deixei de lado editores de texto comuns para utilizar ferramentas q
 ## 📂 Atividades Desenvolvidas
 Os algoritmos criados focam na estrutura **Entrada -> Processamento -> Saída**, aplicando fórmulas matemáticas para resolver os seguintes problemas:
 
-1.  ➕ **Soma de dois números:** Prática inicial de leitura e saída de dados.
-2.  📊 **Média de 3 notas:** Cálculo aritmético básico.
-3.  📐 **Área de um Trapézio:** Aplicação de fórmulas geométricas.
-4.  🧍‍♂️ **Cálculo de IMC:** Manipulação de variáveis e potências.
-5.  🌡️ **Conversor de Temperatura:** Conversão de Celsius (°C) para Fahrenheit (°F).
-6.  🏘️ **Área de Terreno Retangular:** Cálculo de área para aplicações imobiliárias/construção.
+| Atividade | Descrição Lógica |
+| :--- | :--- |
+| ➕ **Soma de dois números** | Prática inicial de leitura e saída de dados. |
+| 📊 **Média de 3 notas** | Cálculo aritmético básico. |
+| 📐 **Área de um Trapézio** | Aplicação de fórmulas geométricas. |
+| 🧍 **Cálculo de IMC** | Manipulação de variáveis e potências. |
+| 🌡️ **Conversor de Temperatura** | Conversão de Celsius (°C) para Fahrenheit (°F). |
+| 🏡 **Área de Terreno Retangular** | Cálculo de área para aplicações imobiliárias/construção. |
 
 ---
 
